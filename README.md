@@ -4,7 +4,7 @@
 
   <h6 align="center">
     <a href="https://git.io/typing-svg">
-      <img src="http://readme-typing-svg.herokuapp.com?font=SF+Mono&lines=Hello%2C+I+am+Lakshit+Somani.;I+am+a+WEBD+enthusiast.;Also+interested+in+C%2B%2B+and+Python.;Do Competitive Programming.;Currently+working+in+React.">
+      <img src="http://readme-typing-svg.herokuapp.com?font=SF+Mono&lines=Hello%2C+I+am+Lakshit+Somani.;I+am+a+WEBD+enthusiast.;Also+interested+in+C%2B%2B+and+Python.;Do +Competitive Programming.;Currently+working+in+React.">
     </a>
   </h6>
 

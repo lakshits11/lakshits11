@@ -16,11 +16,11 @@
 
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I am currently working on **ReactJS Projects**.
+- 🔭 &nbsp; Currently working on **ReactJS Projects**.
 - 🌱 &nbsp; Following **MERN Stack**.
 - ✊ &nbsp; Also interested in C++ and Python.
-- 💬 &nbsp; Do Competitive Coding sometimes.
-- 🌐 &nbsp; Preparing for Interviews.
+- 💬 &nbsp; Do Competitive Coding.
+- 🌐 &nbsp; Also learning Machine Learning, Data science
 
   </p>
 

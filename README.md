@@ -1,26 +1,26 @@
-  <img src="./assets/media/header_.png">
+<!-- <img src="./assets/media/header_.png"> -->
+<img alt="image" src="https://github.com/lakshits11/lakshits11/assets/54276661/cd23711a-6d9b-4cf3-b9de-c0069e0ca20b">
 
-<br/>
+<h1>Hey! I am Lakshit Somani, a software engineer from <img src="https://cdn-icons-png.flaticon.com/128/9906/9906480.png" width="24"/></h1>
 
-  <h6 align="center">
-    <a href="https://git.io/typing-svg">
-      <img src="http://readme-typing-svg.herokuapp.com?font=SF+Mono&lines=Hello%2C+I+am+Lakshit+Somani.;I+am+a+WEBD+enthusiast.;Also+interested+in+C%2B%2B+and+Python.;Do +Competitive+Programming.;Currently+working+in+React.">
-    </a>
-  </h6>
+[![Linkedin Badge](https://img.shields.io/badge/-lakshit--somani-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lakshit-somani/)](https://www.linkedin.com/in/lakshit-somani/)
+[![Gmail Badge](https://img.shields.io/badge/-lakshits11-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:lakshits11@gmail.com)](mailto:lakshits11@gmail.com)
+<!-- [![Medium Badge](https://img.shields.io/badge/-@jessicalim-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@jessicalim)](https://medium.com/@jessicalim)
+[![Website Badge](https://img.shields.io/badge/-jessicalim.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://jessicalim.me)](https://jessicalim.me)
+[![Twitter Badge](https://img.shields.io/badge/-@__jesslim-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_jesslim)](https://twitter.com/_jesslim)
+[![Instagram Badge](https://img.shields.io/badge/-@__jessicaalim-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_jessicaalim/)](https://instagram.com/_jessicaalim) -->
 
-<p align="center">
 
-  <h3 align="Justify"> 🤘 I'm an Engineering Student pursuing B.Tech . 💻 Always available to <strong>collaborate</strong>. 🤝 <i>π</i> Learning curve and always <b>exploring</b> new things to leverage on them and build cool stuff.🛠️ Branched fields of interest 🌴 and <b>Open Source</b> Contributor.</h3>
+I’m a self-taught developer with a knack for creative design and a solid grasp of various programming languages and tools. I’m known for my reliability, effective time management, and a flair for collaboration, making me a valuable asset to any tech team.
 
-<br/>
+## 📔: About Me
 
-### 🧐 More About Me:
-
-- 🔭 &nbsp; Currently working on **ReactJS Projects**.
+- 🖥 &nbsp; Software Developer with bold ideas
+- 🔭 &nbsp; Currently working on some side projects in Python and Typescript
 - 🌱 &nbsp; Following **MERN Stack**.
-- ✊ &nbsp; Also interested in C++ and Python.
-- 💬 &nbsp; Do Competitive Coding.
-- 🌐 &nbsp; Also learning Machine Learning, Data science
+- 💬 &nbsp; Do Competitive Coding using C++
+- ✊ &nbsp; Create themes extensions for VS Code [Marketplace](https://marketplace.visualstudio.com/publishers/lakshits11/)
+<!-- - 🌐 &nbsp; Also learning Machine Learning, Data science -->
 
   </p>
 
@@ -77,6 +77,8 @@
 ##
 
 ## 🏆 Github Stats
+
+![Metrics](https://metrics.lecoq.io/lakshits11?template=classic&base.community=0&isocalendar=1&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Asia%2FCalcutta)
 
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=lakshits11&theme=dark" width="48%" >
   <img  src="https://github-readme-stats.vercel.app/api?username=lakshits11&bg_color=30,f24495,904e95&title_color=fff&text_color=fff" width="48%" align="right" >

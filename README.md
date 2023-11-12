@@ -74,7 +74,7 @@ I’m a self-taught developer with a knack for creative design and a solid grasp
   </p> -->
 
 
-![Snake animation](https://github.com/lakshits11/lakshits11/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/lakshits11/lakshits11/blob/output/github-contribution-grid-snake-dark.svg)
 
 ## 🏆 Github Stats
 

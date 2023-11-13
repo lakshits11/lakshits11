@@ -22,12 +22,53 @@ I’m a self-taught developer with a knack for creative design and a solid grasp
 - ✊ &nbsp; Create themes extensions for VS Code [Marketplace](https://marketplace.visualstudio.com/publishers/lakshits11/)
 <!-- - 🌐 &nbsp; Also learning Machine Learning, Data science -->
 
-  </p>
 
-##
+## 🚀 Languages & Frameworks
 
-## 👉 Languages & Frameworks
+<p>
+<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat&logo=react&logoColor=white" />
+<img alt="javascript" src="https://img.shields.io/badge/-Javascript-F9A03C?style=flat&logo=javascript&logoColor=white" />
+<img alt="C++" src="https://img.shields.io/badge/-C++-007ACC?style=flat&logo=cplusplus&logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/-Python-4d70ff?style=flat&logo=python&logoColor=white" />
+<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat&logo=Node.js&logoColor=white" />
+<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+<img alt="CSS" src="https://img.shields.io/badge/-CSS-B7178C?style=flat&logo=css3&logoColor=white" />
+<img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat&logo=styled-components&logoColor=white" />
+<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat&logo=mongodb&logoColor=white" />
+<img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white" />
+</p>
 
+
+## 🛠️ Tools
+<p>
+<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
+<img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F9A03C?style=flat&logo=prettier&logoColor=white" />
+<img alt="VSCode" src="https://img.shields.io/badge/-VS Code-46a2f1?style=flat&logo=visualstudiocode&logoColor=white" />
+<img alt="Neovim" src="https://img.shields.io/badge/-Neovim-13aa52?style=flat&logo=neovim&logoColor=white" />
+<img alt="Linux" src="https://img.shields.io/badge/-Linux-311C87?style=flat&logo=linux&logoColor=white" />
+<img alt="vercel" src="https://img.shields.io/badge/-Vercel-45b8d8?style=flat&logo=vercel&logoColor=white" />
+</p>
+
+<!-- <p>
+<img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white" />
+<img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=white" /> 
+<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white" />
+<img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
+<img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat&logo=google-cloud&logoColor=white" />
+<img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat&logo=insomnia&logoColor=white" />
+<img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat&logo=apollo-graphql&logoColor=white" />
+<img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white" />
+<img alt="ReactiveX" src="https://img.shields.io/badge/-RxJs-B7178C?style=flat&logo=reactivex&logoColor=white" />
+<img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white" />
+<img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white" />
+<img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat&logo=nestjs&logoColor=white" />
+<img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white" />
+<img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat&logo=rollup.js&logoColor=white" />
+<img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat&logo=d3.js&logoColor=white" />
+</p> -->
+
+<!-- 
 <p>
 <img src="./assets/c++.svg" alt="C++" width="48" height="48"/>
 <img src="./assets/javascript.svg" alt="JavaScript Logo" width="48" height="48"/>
@@ -38,8 +79,9 @@ I’m a self-taught developer with a knack for creative design and a solid grasp
 <img src="./assets/python-original.svg" alt="ReactJS" width="46" height="46"/>
 <img src="./assets/flutter.svg" alt="Flutter" width="40" height="46"/>
 </p>
+-->
 
-## 🙌 Platforms
+<!-- ## 🙌 Platforms
 
 <p>
 <img src="./assets/firebase.svg" alt="Heruko" width="47" height="47"/>
@@ -53,16 +95,16 @@ I’m a self-taught developer with a knack for creative design and a solid grasp
 <img src="./assets/vscode.svg" alt="VS Code" width="43" height="43"/>
 <img src="./assets/git.svg" alt="GIT VCM" width="48" height="48"/>
 <!-- <img src="./assets/nginx.svg" alt="Nginx" width="48" height="48"/> -->
-<img src="./assets/postman.png" alt="Postman API" width="48" height="48"/>
-<img src="./assets/mongodb.svg" alt="Mongo DB" width="48" height="48"/>
+<!-- <img src="./assets/postman.png" alt="Postman API" width="48" height="48"/> -->
+<!-- <img src="./assets/mongodb.svg" alt="Mongo DB" width="48" height="48"/> -->
 <!-- <img src="./assets/wordpress.svg" alt="Wordpress" width="48" height="48"/> -->
-<img src="./assets/linux-original.svg" alt="Linux" width="46" height="46"/>
-<img src="./assets/npm.svg" alt="Node Package Manager" width="48" height="46"/>&nbsp;
+<!-- <img src="./assets/linux-original.svg" alt="Linux" width="46" height="46"/> -->
+<!-- <img src="./assets/npm.svg" alt="Node Package Manager" width="48" height="46"/>&nbsp; -->
 <!-- <img src="./assets/cloudflare-original.svg" alt="JavaScript Logo" width="48" height="46"/> -->
 <!-- <img src="./assets/auth0.svg" alt="Auth0" width="44" height="44"/> -->
 <!-- <img src="./assets/fiddler.svg" alt="Fiddler HTTP Debugger" width="48" height="48"/> -->
-<img src="./assets/telegram.svg" alt="Telegram" width="48" height="48"/>
-</p>
+<!-- <img src="./assets/telegram.svg" alt="Telegram" width="48" height="48"/> -->
+<!-- </p> -->
 
 
 ## 🏆 Github Stats

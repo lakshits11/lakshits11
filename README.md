@@ -1,7 +1,15 @@
 <!-- <img src="./assets/media/header_.png"> -->
 <img alt="image" src="https://github.com/lakshits11/lakshits11/assets/54276661/cd23711a-6d9b-4cf3-b9de-c0069e0ca20b">
 
-<h1>Hey! I am Lakshit Somani, a software engineer from <img src="https://cdn-icons-png.flaticon.com/128/9906/9906480.png" width="24"/></h1>
+<h1 align="center">Hi, I'm Lakshit Somani</h1>  
+<h3 align="center">A Software Engineer & Visual Storyteller</h3>  <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshits11&label=Profile%20views&color=0e75b6&style=flat" alt="lakshits11" /> </p>  <p align="center">  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">  
+    <img src="https://github-profile-trophy.vercel.app/?username=lakshits11&theme=dracula&margin-w=15&margin-h=15" alt="lakshits11 trophies" />  
+  </a>  
+</p>  
+
+---
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-lakshit--somani-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lakshit-somani/)](https://www.linkedin.com/in/lakshit-somani/)
 [![Gmail Badge](https://img.shields.io/badge/-lakshits11-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:lakshits11@gmail.com)](mailto:lakshits11@gmail.com)
@@ -13,6 +21,7 @@
 
 I’m a self-taught developer with a knack for creative design and a solid grasp of various programming languages and tools. I’m known for my reliability, effective time management, and a flair for collaboration, making me a valuable asset to any tech team.
 
+<!--
 ## 📔: About Me
 
 - 🖥 &nbsp; Software Developer with bold ideas
@@ -21,6 +30,18 @@ I’m a self-taught developer with a knack for creative design and a solid grasp
 - 💬 &nbsp; Do Competitive Coding using C++
 - ✊ &nbsp; Create themes extensions for VS Code [Marketplace](https://marketplace.visualstudio.com/publishers/lakshits11/)
 <!-- - 🌐 &nbsp; Also learning Machine Learning, Data science -->
+
+## 🔭 About Me
+
+* 💻 I specialize in designing scalable, high-performance applications, leveraging my expertise in the MERN stack, Python, and C++ to deliver robust, production-ready solutions.
+
+* 🚀 Adept at architecting full-stack systems, I excel at crafting seamless integrations between frontend frameworks, API layers, and database management systems like PostgreSQL and MongoDB.
+
+* 🌐 I’m passionate about building intelligent, data-driven applications, exploring machine learning models to enhance functionality and user experience.
+
+* 🔧 Currently, I’m developing a state-of-the-art real estate platform, focusing on complex data pipelines, dynamic search algorithms, and scalable backend infrastructures.
+
+
 
 
 ## 🚀 Languages & Frameworks

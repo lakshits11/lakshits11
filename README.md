@@ -39,7 +39,7 @@ I’m a self-taught developer with a knack for creative design and a solid grasp
 
 * 🌐 I’m passionate about building intelligent, data-driven applications, exploring machine learning models to enhance functionality and user experience.
 
-* 🔧 Currently, I’m developing a state-of-the-art real estate platform, focusing on complex data pipelines, dynamic search algorithms, and scalable backend infrastructures.
+<!-- * 🔧 Currently, I’m developing a state-of-the-art real estate platform, focusing on complex data pipelines, dynamic search algorithms, and scalable backend infrastructures. -->
 
 
 
